@@ -7,3 +7,10 @@ So, this project has like goal making women able to reveal their problems in the
 
 (THIS IS THE BACK-END PART DEVELOPED BY " HAMZA BEIZIG - KHALIL GUEDRIA - AHMED NEBLI - FARES MHAMDI - ALA HAMED - DHIA MATHLOUTHI ")
 (TO GO TO THE FRONT-END PART USE THIS LINK https://github.com/hamzabeizig/WomenEmporwementFront.git )
+
+#Test
+This project was generated with SPRING BOOT 
+
+#RUN 
+MAVEN UPDATE 
+RUN AS SPRING BOOT APP
